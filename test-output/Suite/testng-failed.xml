@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="address" value="KG SignatureCity"/>
+  <parameter name="cc_exp_month" value="February"/>
+  <parameter name="cc_num" value="9876541234678907"/>
+  <parameter name="last_name" value="Yanamadala"/>
+  <parameter name="cc_cvv" value="876"/>
+  <parameter name="cc_exp_year" value="2022"/>
+  <parameter name="cc_type" value="American Express"/>
+  <parameter name="password" value="Frontech123"/>
+  <parameter name="hotels" value="Hotel Sunshine"/>
+  <parameter name="location" value="Melbourne"/>
+  <parameter name="datepick_in" value="26-3-2022"/>
+  <parameter name="datepick_out" value="27-3-2022"/>
+  <parameter name="child_room" value="0 - None"/>
+  <parameter name="adult_room" value="2 - Two"/>
+  <parameter name="first_name" value="Sahithi"/>
+  <parameter name="room_nos" value="2 - Two"/>
+  <parameter name="username" value="YanamadalaSahithi"/>
+  <parameter name="room_type" value="Deluxe"/>
+  <test name="Test">
+    <parameter name="address" value="KG SignatureCity"/>
+    <parameter name="cc_exp_month" value="February"/>
+    <parameter name="cc_num" value="9876541234678907"/>
+    <parameter name="last_name" value="Yanamadala"/>
+    <parameter name="cc_cvv" value="876"/>
+    <parameter name="cc_exp_year" value="2022"/>
+    <parameter name="cc_type" value="American Express"/>
+    <parameter name="password" value="Frontech123"/>
+    <parameter name="hotels" value="Hotel Sunshine"/>
+    <parameter name="location" value="Melbourne"/>
+    <parameter name="datepick_in" value="26-3-2022"/>
+    <parameter name="datepick_out" value="27-3-2022"/>
+    <parameter name="child_room" value="0 - None"/>
+    <parameter name="adult_room" value="2 - Two"/>
+    <parameter name="first_name" value="Sahithi"/>
+    <parameter name="room_nos" value="2 - Two"/>
+    <parameter name="username" value="YanamadalaSahithi"/>
+    <parameter name="room_type" value="Deluxe"/>
+    <classes>
+      <class name="org.testng.Day2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->

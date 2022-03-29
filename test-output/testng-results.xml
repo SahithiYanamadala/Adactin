@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23155" started-at="2022-03-25T11:00:17Z" finished-at="2022-03-25T11:00:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23155" started-at="2022-03-25T11:00:17Z" finished-at="2022-03-25T11:00:40Z">
+      <class name="org.testng.Day2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.testng.Day2@6fb554cc]" name="beforeClass" is-config="true" duration-ms="18232" started-at="2022-03-25T16:30:17Z" finished-at="2022-03-25T16:30:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.testng.Day2@6fb554cc]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-03-25T16:30:35Z" finished-at="2022-03-25T16:30:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String)[pri:0, instance:org.testng.Day2@6fb554cc]" name="tc01" duration-ms="1280" started-at="2022-03-25T16:30:35Z" finished-at="2022-03-25T16:30:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[YanamadalaSahithi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Frontech123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.testng.Day2@6fb554cc]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2022-03-25T16:30:36Z" finished-at="2022-03-25T16:30:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc02(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.testng.Day2@6fb554cc]" name="tc02" duration-ms="1844" started-at="2022-03-25T16:30:36Z" finished-at="2022-03-25T16:30:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Melbourne]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hotel Sunshine]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Deluxe]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2 - Two]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[26-3-2022]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[27-3-2022]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2 - Two]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[0 - None]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.testng.Day2@6fb554cc]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-03-25T16:30:38Z" finished-at="2022-03-25T16:30:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc03()[pri:0, instance:org.testng.Day2@6fb554cc]" name="tc03" duration-ms="1045" started-at="2022-03-25T16:30:38Z" finished-at="2022-03-25T16:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+        <test-method status="PASS" signature="tc04(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.testng.Day2@6fb554cc]" name="tc04" duration-ms="737" started-at="2022-03-25T16:30:39Z" finished-at="2022-03-25T16:30:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sahithi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Yanamadala]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[KG SignatureCity]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9876541234678907]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[American Express]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[February]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2022]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[876]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.testng.Day2@6fb554cc]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-03-25T16:30:39Z" finished-at="2022-03-25T16:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+      </class> <!-- org.testng.Day2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

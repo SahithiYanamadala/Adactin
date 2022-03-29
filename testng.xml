@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test name="Test">
+  
+  <parameter name="username" value="YanamadalaSahithi"></parameter>
+  <parameter name="password" value="Frontech123"></parameter>
+  <parameter name="location" value="Melbourne"></parameter>
+  <parameter name="hotels" value="Hotel Sunshine"></parameter>
+  <parameter name="room_type" value="Deluxe"></parameter>
+  <parameter name="room_nos" value="2 - Two"></parameter>
+  <parameter name="datepick_in" value="26-3-2022"></parameter>
+  <parameter name="datepick_out" value="27-3-2022"></parameter>
+  <parameter name="adult_room" value="2 - Two"></parameter>
+  <parameter name="child_room" value="0 - None"></parameter>
+  <parameter name="first_name" value="Sahithi"></parameter>
+  <parameter name="last_name" value="Yanamadala"></parameter>
+  <parameter name="address" value="KG SignatureCity"></parameter>
+  <parameter name="cc_num" value="9876541234678907"></parameter>
+  <parameter name="cc_type" value="American Express"></parameter>
+  <parameter name="cc_exp_month" value="February"></parameter>
+  <parameter name="cc_exp_year" value="2022"></parameter>
+  <parameter name="cc_cvv" value="876"></parameter>
+  
+  value="9876541234678907"
+  <classes>
+  <class name="org.testng.Day2"></class>
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+Greens@12345
